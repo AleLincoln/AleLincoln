@@ -6,7 +6,7 @@ I love implement design, learning new technologies, and prototyping new ideas!
 ### :tada: Things I love 
 
 - Next.js
-- Vue.js
+- Vanilla. js
 - React
 - CSS
 - Pizza & Lasagna
