@@ -1,16 +1,25 @@
-### Hi there 👋
+### 🤙 Hi there 
+My name is Lincoln, and I'm a Front-end Developer.
 
-<!--
-**AleLincoln/AleLincoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love implement design, learning new technologies, and prototyping new ideas!
 
-Here are some ideas to get you started:
+### :tada: Things I love 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Next.js
+- Vue.js
+- React
+- CSS
+- Pizza & Lasagna
+
+### :pencil2: Things I'm trying out 
+
+- Typescript
+- Node.js
+
+### :link: Links 
+
+<a href="https://alelincoln.vercel.app/" >🌐 My Portfolio website</a>
+
+[![GitHub Badge](https://img.shields.io/github/followers/AleLincoln?label=follow&style=social)](https://github.com/AleLincoln/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincoln-alexandrino/)](https://www.linkedin.com/in/lincoln-alexandrino/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ale_lincoln/)](https://www.instagram.com/ale_lincoln/)
